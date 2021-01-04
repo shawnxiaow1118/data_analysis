@@ -14,8 +14,10 @@ For Xiao
 
 ### 表之间的关系
 每个表由一个名字标识。表包含带有列名的列，和记录数据的行。下面图片里的表名是：学生表，记录了每个学生的信息。
+![student tables](./ts.jpg "title")
 
 这两张表通过**学号**关联起来，用相同颜色代表同一个学生的信息。
+![student table ralation](./r.jpg "title")
 
 例如我想知道学生表里学号“0001” 的成绩是多少？那么我就可以在成绩表里去查找“**学号**”值是0001的行，最后在成绩表里发现有3行数据的学号都是“0001” ，对应的就找到了该学生的三门课程的成绩。
 
@@ -86,3 +88,5 @@ order by
 
 ### 其他
 还有些非常有用的关键词 比如 [group by](https://www.runoob.com/sql/sql-groupby.html)，再加上 [avg](https://www.runoob.com/sql/sql-func-avg.html) [sum](https://www.runoob.com/sql/sql-func-sum.html)等操作看，基本就可以满足日常需求了。还有 [case when](https://blog.csdn.net/love_java_cc/article/details/52234415)也是我比较常用的。普通的SQL还可以自己写处理的函数，但是企业里一般都是hive存储，需要写java的后端处理函数，比较麻烦，一般不需要你来写，去提需求！
+
+## TODO python
