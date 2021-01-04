@@ -2,6 +2,10 @@
 for xiao
 
 
-# Welcome to 
+# Welcome to SQL summarization
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+## 什么是数据库
+数据库有很多种类，这里我们重点学习使用最广泛的关系数据库。
+关系数据库是由多个表组成的。如果你用过Excel，就会知道Excel是一张一张的二维表。每个表都是由行和列组成的。
+同样的，关系数据库里存放的也是一张一张的表，只不过各个表之间是有联系的。所以，简单来说：
+*关系数据库=多张表+各表之间的关系*
