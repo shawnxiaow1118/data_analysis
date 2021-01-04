@@ -1,8 +1,6 @@
-# data_analysis
-for xiao
-
 
 # Welcome to SQL summarization
+For Xiao
 
 ## 什么是数据库
 数据库有很多种类，这里我们重点学习使用最广泛的关系数据库。
