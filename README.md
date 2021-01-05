@@ -90,3 +90,6 @@ order by
 还有些非常有用的关键词 比如 [group by](https://www.runoob.com/sql/sql-groupby.html)，再加上 [avg](https://www.runoob.com/sql/sql-func-avg.html) [sum](https://www.runoob.com/sql/sql-func-sum.html)等操作看，基本就可以满足日常需求了。还有 [case when](https://blog.csdn.net/love_java_cc/article/details/52234415)也是我比较常用的。普通的SQL还可以自己写处理的函数，但是企业里一般都是hive存储，需要写java的后端处理函数，比较麻烦，一般不需要你来写，去提需求！
 
 ## TODO python
+
+## TODO seaborn
+https://seaborn.pydata.org/
